@@ -1,2 +1,2 @@
-# my-own-website
-a first personal website with stardance( hack club)
+# a-fictional-website
+Just a fun test project for learning html by doing!
